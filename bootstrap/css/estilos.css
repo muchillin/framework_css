@@ -1,0 +1,43 @@
+
+.imgrs{
+  max-width: 30px;
+}
+
+.imgch{
+  max-width: 80px;
+}
+
+
+.cabecera{
+  background-color: rgba(39, 55, 70, 0.95);
+}
+
+.imgbg{
+  max-width:350px;
+}
+
+body{
+  background-color: rgba(146, 43, 33, 0.95);
+}
+
+.colores{
+  background-color: red;
+}
+
+.colorbase{
+  background-color: white;
+}
+
+.conte1{
+width: 100%;
+text-align: center;
+}
+
+
+.acomoda{
+  margin-top: 10px;
+}
+
+.acomoda2{
+  margin-top: 80px;
+}
